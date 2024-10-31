@@ -2,7 +2,6 @@
 
 int main() {
     int mes;
-
     printf("Digite o número do Mẽs que você deseja: \n");
     scanf("%d", &mes);
 
